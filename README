@@ -1,0 +1,41 @@
+#Author
+Kyle Burtt
+
+#Partner
+None
+
+#Start Date
+Setp 6 2024
+
+#Course:
+CS3500, Univserity of Utah, School of Computing
+
+#GitHub ID:KyleBurtt
+
+#Repo: https://github.com/KyleBurtt/Assign02
+
+#OverView:
+This solution contains two main projects, "formula" and "formulaTests", developed as part of the CS 3500 course assignment. The goal is to implement a class that represents formulas with correct syntax validation, along with unit tests
+
+#Projects: 
+- Formula: Implements the formula class that checks the syntax of formulas
+- FormulaTests: Unit tests for the formula class using the MSTest framework
+
+#Tools Used:
+- Visual Studio 2022
+- C# .Net 8
+- MSTest for unit testing
+-Git for version control
+
+# Setup instructions
+1. open the solution in visual Studio
+2, Build the solution to ensure all dependecies are in place
+3, Run the tests using Test explorer to validate the Formula
+
+#Time estimate:
+about 4 hours
+
+#Actual 
+4 hours
+
+#quick test
